@@ -4,4 +4,4 @@
 这是我的掘金：https://juejin.cn/user/2731614892986862
 
 ## Status
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
+![Sunrisies's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunrisies&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
