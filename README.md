@@ -2,3 +2,6 @@
 
 学习前端的时间：2020.5 -- 至今
 这是我的掘金：https://juejin.cn/user/2731614892986862
+
+## Status
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
