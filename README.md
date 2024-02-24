@@ -3,7 +3,7 @@
 学习前端的时间：2020.5 -- 至今
 这是我的掘金：https://juejin.cn/user/2731614892986862
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrisies&layout=compact&theme=tokyonight)
 
 
 
