@@ -3,6 +3,9 @@
 学习前端的时间：2020.5 -- 至今
 这是我的掘金：https://juejin.cn/user/2731614892986862
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+
+
 
 ![Visitor Count](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac595079b3e495c81bbd930d93f5861~tplv-k3u1fbpfcp-zoom-1.image)
 
