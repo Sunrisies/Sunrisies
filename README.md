@@ -12,13 +12,6 @@
 ## Status
 ![Sunrisies's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunrisies&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag)
 
-
-<!--
-<div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sunrisies&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
--->
-
-
-
 🔥 My Skill Set:
 -----------------------
 <table><tr><td valign="top" width="33%">
