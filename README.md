@@ -87,7 +87,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrisies&layout=compact" />
-<img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrisies&layout=compact” />
-
-  # 指标
-![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+<img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrisies&layout=compact” />                                                                                                                                                                                                                                                                                                                                           
