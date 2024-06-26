@@ -90,11 +90,4 @@
 <img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrisies&layout=compact” />
 
   # 指标
-![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                              |
-<div align=left>
-  # 指标
-![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)
-  # 进行中
-<div align=left>
-# TODO
-- [每日 TODO](https://zhuling.notion.site/6756ff3cf1204075bf137c2e327e603c#7f552f25625d477c9ccbb65d7c0b3062)
+![Personal 3D Metrics](./profile-3d-contrib/profile-green-animate.svg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
