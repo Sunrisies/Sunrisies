@@ -5,12 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrisies&layout=compact&theme=tokyonight)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
 ![Visitor Count](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac595079b3e495c81bbd930d93f5861~tplv-k3u1fbpfcp-zoom-1.image)
-
-## Status
-![Sunrisies's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunrisies&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag)
 
 🔥 My Skill Set:
 -----------------------
@@ -54,7 +49,7 @@
 
 
 
-### DevOps  
+### 开发运维  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -70,7 +65,6 @@
 
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunrisies" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Sunrisies" /> </div>
 <!--
 <div align="center">
   <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
