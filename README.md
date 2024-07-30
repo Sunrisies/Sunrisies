@@ -62,7 +62,7 @@
 </td></tr></table>  
 
 <br/>  
-[![Page Views Count](https://badges.toozhao.com/badges/01J4125593J1D14A0MG39FGJJ7/green.svg)](https://badges.toozhao.com/stats/01J4125593J1D14A0MG39FGJJ7 "Get your own page views count badge on badges.toozhao.com")
+[![Page Views Count](https://badges.toozhao.com/badges/01J4125593J1D14A0MG39FGJJ7/green.svg)]
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunrisies" /> </div>
 <!--
 <div align="center">
